@@ -1,0 +1,10 @@
+mkdir
+cd
+pwd
+ls
+git
+git init
+touch
+git add
+git commit
+
